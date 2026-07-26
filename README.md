@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santhosh Raj</h1>
 
 <h3 align="center">
-Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Student
+Java Developer|Frontend Enthusiast|DSA Learner|Cloud Computing Student
 </h3>
-
----
-
-<a href="https://leetcode.com/santhoshrajkttp">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
-</a>
-</p>
 
 ---
 
