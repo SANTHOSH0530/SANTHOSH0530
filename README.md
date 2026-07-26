@@ -10,13 +10,6 @@ Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Stude
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://instagram.com/_santhosh._k">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
-</a>
-
 <a href="https://leetcode.com/santhoshrajkttp">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
 </a>
@@ -68,16 +61,6 @@ Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Stude
     width="900"
     alt="GitHub Contribution Graph"
   />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH0530&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
