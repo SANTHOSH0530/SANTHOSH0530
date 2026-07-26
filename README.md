@@ -27,27 +27,23 @@ Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Stude
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ☕ Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ☁️ Cloud & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
 </p>
 
 ---
@@ -55,7 +51,11 @@ Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Stude
 ## 📊 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika"/>
+  <img
+    src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika"
+    width="900"
+    alt="LeetCode Stats"
+  />
 </p>
 
 ---
@@ -63,7 +63,11 @@ Java Developer • Frontend Enthusiast • DSA Learner • Cloud Computing Stude
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true"
+    width="900"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
