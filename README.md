@@ -53,7 +53,4 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SANTHOSH0530&theme=github-dark-blue)
