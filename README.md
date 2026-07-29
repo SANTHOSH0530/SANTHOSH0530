@@ -53,7 +53,3 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SANTHOSH0530&theme=dark&hide_border=true)](https://git.io/streak-stats)
