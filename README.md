@@ -45,11 +45,7 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true"
-    width="900"
-    alt="GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&theme=tokyo-night" />
 </p>
 
 ---
