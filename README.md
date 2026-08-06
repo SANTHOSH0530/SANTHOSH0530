@@ -22,12 +22,6 @@ Java Developer | Frontend Enthusiast | DSA Learner
   </a>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SANTHOSH0530">
-    <img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
