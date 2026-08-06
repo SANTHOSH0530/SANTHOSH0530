@@ -6,29 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+Learner;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santhoshrajk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.instagram.com/_santhosh._k/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:santhoshkathirkk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
 
