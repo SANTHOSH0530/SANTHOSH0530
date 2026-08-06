@@ -1,15 +1,23 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Santhosh%20Raj&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Santhosh Raj</h1>
 
 <h3 align="center">
-💻 Java Developer | 🌐 Full Stack Developer | 📚 DSA Learner
+Computer Science Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+Learner;Always+Learning+New+Technologies" />
+📍 V.S.B College of Engineering Technical Campus
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+Learner;Backend+Developer;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,34 +25,32 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhoshrajk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-  </a>
 
-  &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/santhoshrajk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.instagram.com/_santhosh._k/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
-  </a>
+<a href="https://www.instagram.com/_santhosh._k/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+<a href="mailto:santhoshkathirkk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="mailto:santhoshkathirkk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
-  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 - 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
-- 💻 Passionate Java Developer with a strong foundation in programming
-- 🌐 Learning and building Full Stack Web Applications
-- 📚 Solving Data Structures & Algorithms problems on LeetCode
-- ☁️ Interested in Backend Development, Cloud Computing, and Software Engineering
-- 🚀 Building real-world projects to improve problem-solving and development skills
-- 🤝 Open to internships, collaborations, and placement opportunities
+- 💻 Passionate Java Developer
+- 🌐 Full Stack Developer
+- 📚 Solving Data Structures & Algorithms on LeetCode
+- ☁️ Interested in Backend Development, Cloud Computing & Software Engineering
+- 🚀 Building real-world projects using Java, React, Node.js and MySQL
+- 🤝 Open to Internship & Placement Opportunities
 
 ---
 
@@ -82,42 +88,10 @@
 
 ---
 
-# 🚀 Featured Project
-
-## 🏥 MediPlex AI
-
-<p align="center">
-
-<a href="https://mediplexai.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SANTHOSH0530">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-An AI-powered healthcare platform designed to provide intelligent medical assistance with a modern, responsive, and user-friendly interface.
-</p>
-
----
-
 # 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Nitin_0800?theme=dark&font=Andika&ext=contest" width="850"/>
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&theme=tokyo-night&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika&ext=contest"/>
 </p>
 
 ---
@@ -140,6 +114,14 @@ An AI-powered healthcare platform designed to provide intelligent medical assist
 
 ---
 
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -148,7 +130,7 @@ An AI-powered healthcare platform designed to provide intelligent medical assist
 
 ---
 
-# 💡 Quote
+# 💬 Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -157,5 +139,9 @@ An AI-powered healthcare platform designed to provide intelligent medical assist
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! ⭐
 </h3>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+</p>
