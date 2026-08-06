@@ -2,24 +2,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Santhosh%20Raj&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Santhosh Raj</h1>
+---
 
-<h3 align="center">
-Computer Science Engineering Student
-</h3>
+# 🚀 About Me
 
-<p align="center">
-🎓 V.S.B College of Engineering Technical Campus
-</p>
-
-<p align="center">
-💻 Java Developer • 📚 DSA Learner • 🚀 Open Source Enthusiast
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
+- 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
+- 💻 Passionate Java Developer
+- 🌐 Full Stack Developer
+- 📚 Solving Data Structures & Algorithms on LeetCode
+- ☁️ Interested in Backend Development, Cloud Computing & Software Engineering
+- 🚀 Building real-world projects using Java, React, Node.js and MySQL
+- 🤝 Open to Internship & Placement Opportunities
+  
 ---
 
 # 🌐 Connect With Me
@@ -37,20 +31,7 @@ Computer Science Engineering Student
 <a href="mailto:santhoshkathirkk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
-
----
-
-# 🚀 About Me
-
-- 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
-- 💻 Passionate Java Developer
-- 🌐 Full Stack Developer
-- 📚 Solving Data Structures & Algorithms on LeetCode
-- ☁️ Interested in Backend Development, Cloud Computing & Software Engineering
-- 🚀 Building real-world projects using Java, React, Node.js and MySQL
-- 🤝 Open to Internship & Placement Opportunities
 
 ---
 
@@ -67,6 +48,15 @@ Computer Science Engineering Student
 <p align="center">
 <img width="95%" src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika&ext=contest"/>
 </p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 # 📊 GitHub Statistics
@@ -83,22 +73,6 @@ Computer Science Engineering Student
 
 <img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANTHOSH0530&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SANTHOSH0530&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
