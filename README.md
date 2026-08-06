@@ -56,34 +56,8 @@ Computer Science Engineering Student
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Language
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🛠️ Tools & IDE
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mysql,git,github,vscode,eclipse&perline=6"/>
 </p>
 
 ---
@@ -91,9 +65,8 @@ Computer Science Engineering Student
 # 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika&ext=contest"/>
+<img width="95%" src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Andika&ext=contest"/>
 </p>
-
 ---
 
 # 📊 GitHub Statistics
