@@ -65,8 +65,6 @@
 
 </p>
 
-
-
 # 💬 Developer Quote
 
 <p align="center">
