@@ -6,6 +6,30 @@ Java Developer | Frontend Enthusiast | DSA Learner
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhoshrajk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_santhosh._k/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:santhoshkathirkk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SANTHOSH0530">
+    <img src="https://komarev.com/ghpvc/?username=SANTHOSH0530&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
