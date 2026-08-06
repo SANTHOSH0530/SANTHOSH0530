@@ -2,8 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Santhosh%20Raj&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
 </p>
 
----
-
 # 🚀 About Me
 
 - 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
@@ -69,13 +67,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 💬 Developer Quote
 
