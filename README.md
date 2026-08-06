@@ -9,11 +9,11 @@ Computer Science Engineering Student
 </h3>
 
 <p align="center">
-📍 V.S.B College of Engineering Technical Campus
+🎓 V.S.B College of Engineering Technical Campus
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+Learner;Backend+Developer;Always+Learning+New+Technologies"/>
+💻 Java Developer • 📚 DSA Learner • 🚀 Open Source Enthusiast
 </p>
 
 <p align="center">
