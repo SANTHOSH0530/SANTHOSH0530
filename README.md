@@ -44,31 +44,7 @@
 
 ## 📊 GITHUB ANALYTICS
 
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-width="48%"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH0530&layout=compact&theme=tokyonight&hide_border=true"
-width="48%"
-alt="Top Languages"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=tokyonight&hide_border=true"
-width="100%"
-alt="GitHub Profile Details"
-/>
-
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SANTHOSH0530&theme=tokyonight" width="48%" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SANTHOSH0530&theme=tokyonight" width="48%" alt="Top Languages by Commit" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANTHOSH0530&theme=tokyonight" width="100%" alt="GitHub Profile Details" /> </p>
 
 # 💻 LeetCode Stats
 
