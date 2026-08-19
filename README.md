@@ -62,14 +62,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 # 💬 Developer Quote
 
 <p align="center">
