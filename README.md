@@ -8,7 +8,7 @@
 - 💻 Passionate Java Developer
 - 🌐 Developer
 - 📚 Solving Data Structures & Algorithms on LeetCode
-- ☁️ Interested in Backend Development, Cloud Computing & Software Engineering
+- ☁️ Interested in Software Engineering
 - 🚀 Building real-world projects using Java, React, Node.js and MySQL
 - 🤝 Open to Internship & Placement Opportunities
   
