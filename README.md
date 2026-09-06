@@ -8,9 +8,7 @@
 - 💻 Passionate Java Developer
 - 🌐 Developer
 - 📚 Solving Data Structures & Algorithms on LeetCode
-- ☁️ Interested in Software Engineering
-- 🚀 Building real-world projects using Java, React, Node.js and MySQL
-  
+- ☁️ Interested in Software Engineering  
 ---
 
 # 🌐 Connect With Me
