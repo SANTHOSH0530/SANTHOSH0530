@@ -43,7 +43,6 @@
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SANTHOSH0530&theme=tokyonight" width="48%" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SANTHOSH0530&theme=tokyonight" width="48%" alt="Top Languages by Commit" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANTHOSH0530&theme=tokyonight" width="100%" alt="GitHub Profile Details" /> </p>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SANTHOSH0530&theme=tokyonight">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SANTHOSH0530&theme=tokyonight">
 
 # 💬 Developer Quote
 
