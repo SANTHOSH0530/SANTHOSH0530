@@ -5,7 +5,7 @@
 # 🚀 About Me
 
 - 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
-- 💻 Passionate Java Developer
+- 💻 Passionate Full Stack  Developer
 - 🌐 Developer
 - 📚 Solving Data Structures & Algorithms on LeetCode
 - ☁️ Interested in Software Engineering  
