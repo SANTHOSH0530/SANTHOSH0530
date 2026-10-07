@@ -61,17 +61,17 @@ width="280"
 </table>
 
 <br>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH0530&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH0530&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true" />
 
