@@ -16,46 +16,51 @@
 
 ---
 
-## 👨‍💻 About Me
+<!--                         ABOUT ME                           -->
 
-<table>
+<!-- ========================================================= -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+<table width="100%" cellpadding="15" cellspacing="0">
 <tr>
-
-<td width="60%" valign="top">
-
-### Hi, I'm Santhosh Raj 👋
-
-🎓 Computer Science Engineering student at **V.S.B College of Engineering Technical Campus**
-
-💻 Interested in **Java, Full Stack Development & Software Engineering**
-
-🧠 Currently strengthening my knowledge in **Data Structures & Algorithms**
-
-🌐 Building responsive websites using **HTML, CSS & Tailwind CSS**
-
-⚙️ Learning backend development with **Node.js, Express.js & MongoDB**
-
-🗄️ Working with databases such as **MySQL & MongoDB**
-
-🚀 I enjoy building projects and improving my problem-solving skills.
-
-🎯 My goal is to become a strong **Full Stack Developer** with solid DSA and backend fundamentals.
-
+<td width="55%" valign="middle">
+<h3>Hi there! 👋 I'm Santhosh Raj</h3>
+<p>
+🎓 <b>Computer Science Engineering Student</b>
+at <b>V.S.B College of Engineering Technical Campus</b>
+</p>
+<p>
+☕ Passionate about <b>Java Development</b> and
+<b>Data Structures & Algorithms</b>.
+</p>
+<p>
+🌐 Interested in building modern
+<b>Full Stack Web Applications</b>.
+</p>
+<p>
+💻 Currently working with
+<b>HTML, CSS, JavaScript, Tailwind CSS, Node.js and Express.js</b>.
+</p>
+<p>
+🗄️ Exploring <b>MySQL and MongoDB</b>
+for database development.
+</p>
+<p>
+🚀 Focused on continuously improving my
+technical skills, solving problems and
+building real-world projects.
+</p>
 </td>
-
-<td width="40%" align="center" valign="middle">
-
-### 🛠️ Skills
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=5" />
-
+<td width="45%" align="center" valign="middle">
+<img
+src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&perline=3"
+width="280"
+/>
 </td>
-
 </tr>
 </table>
 
+<br>
 ---
 
 ## 📊 GitHub Statistics
