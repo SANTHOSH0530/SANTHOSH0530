@@ -20,7 +20,8 @@
 
 <table>
 <tr>
-<td width="60%">
+
+<td width="60%" valign="top">
 
 ### Hi, I'm Santhosh Raj 👋
 
@@ -38,15 +39,20 @@
 
 🚀 I enjoy building projects and improving my problem-solving skills.
 
-📚 My goal is to become a strong **Full Stack Developer** with solid DSA and backend fundamentals.
+🎯 My goal is to become a strong **Full Stack Developer** with solid DSA and backend fundamentals.
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+### 🛠️ Skills
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=5" />
 
 </td>
+
 </tr>
 </table>
 
@@ -70,14 +76,50 @@
 
 ## 📂 Project Explorer
 
-| 🚀 Project | 📝 Description | 🛠️ Technologies |
-|------------|----------------|------------------|
-| 🌿 **Greenden** | Responsive plant store website with product listings, contact page and newsletter section. | HTML, Tailwind CSS |
-| 🎓 **Udemy Clone** | Educational website clone focused on recreating the frontend learning platform experience. | HTML, CSS |
-| 🌍 **TripAdvisor Clone** | Travel website clone with destination and travel-related UI sections. | HTML, CSS |
-| 🧑‍🎓 **Smart Attendance System** | Attendance management system for tracking student attendance and generating reports. | HTML, CSS, JavaScript, Node.js, PostgreSQL |
-| ☕ **Java DSA** | Collection of Java programs and Data Structures & Algorithms practice. | Java, DSA |
-| 🗄️ **SQL Projects** | SQL practice, queries and database-related projects. | SQL, MySQL |
+<table>
+<tr>
+<th>🚀 Project</th>
+<th>📝 Description</th>
+<th>🛠️ Technologies</th>
+</tr>
+
+<tr>
+<td>🌿 <b>Greenden</b></td>
+<td>Responsive plant store website with product listings, contact page and newsletter section.</td>
+<td>HTML, Tailwind CSS</td>
+</tr>
+
+<tr>
+<td>🎓 <b>Udemy Clone</b></td>
+<td>Educational website clone focused on recreating the frontend learning platform experience.</td>
+<td>HTML, CSS</td>
+</tr>
+
+<tr>
+<td>🌍 <b>TripAdvisor Clone</b></td>
+<td>Travel website clone with destination and travel-related UI sections.</td>
+<td>HTML, CSS</td>
+</tr>
+
+<tr>
+<td>🧑‍🎓 <b>Smart Attendance System</b></td>
+<td>Attendance management system for tracking student attendance and generating reports.</td>
+<td>HTML, CSS, JavaScript, Node.js, PostgreSQL</td>
+</tr>
+
+<tr>
+<td>☕ <b>Java DSA</b></td>
+<td>Collection of Java programs and Data Structures & Algorithms practice.</td>
+<td>Java, DSA</td>
+</tr>
+
+<tr>
+<td>🗄️ <b>SQL Projects</b></td>
+<td>SQL practice, queries and database-related projects.</td>
+<td>SQL, MySQL</td>
+</tr>
+
+</table>
 
 ---
 
@@ -95,6 +137,10 @@
 
 <a href="mailto:santhoshkathirkk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-santhoshkathirkk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SANTHOSH0530">
+<img src="https://img.shields.io/badge/GitHub-SANTHOSH0530-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -115,6 +161,8 @@
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0066FF,100:7F00FF&height=120&section=footer"/>
 
