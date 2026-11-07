@@ -16,10 +16,6 @@
 
 ---
 
-<!--                         ABOUT ME                           -->
-
-<!-- ========================================================= -->
-
 <h2 align="center">👨‍💻 About Me</h2>
 <table width="100%" cellpadding="15" cellspacing="0">
 <tr>
@@ -61,6 +57,18 @@ width="280"
 </table>
 
 <br>
+
+---
+
+## 🎮 Live Space Shooter
+
+<div align="center">
+
+<img src="assets/space-shooter.gif" width="100%"/>
+
+<sub>Auto-generated daily by GitHub Actions</sub>
+
+</div>
 
 ---
 

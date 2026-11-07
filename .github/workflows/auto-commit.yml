@@ -1,0 +1,29 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC (5:30 AM IST)
+  workflow_dispatch:       # Allows manual trigger too
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "Jai-0709"
+          git config --global user.email "mjaisurya10@gmail.com"
+
+      - name: Make daily commit
+        run: |
+          echo "Last auto-commit: $(date '+%Y-%m-%d %H:%M:%S UTC')" > auto_commit.md
+          git add auto_commit.md
+          git commit -m "🤖 Daily commit - $(date '+%Y-%m-%d')"
+          git push
