@@ -52,86 +52,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧑‍🎓 Smart Attendance System
-
-A student attendance management system designed to track attendance, generate reports and simplify attendance monitoring.
-
-### ✨ Key Features
-
-- 📊 Student attendance tracking
-- 📅 Monthly attendance reports
-- 🏫 Department and year-wise reports
-- 📧 Parent notification functionality
-- 📈 Attendance percentage monitoring
-- 📋 Excel report generation
-
-### 🧰 Technologies Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,postgres&perline=5" alt="Smart Attendance Technologies"/>
-</p>
-
----
-
-## 🌿 Greenden
-
-A responsive plant store website featuring product listings and a clean shopping interface.
-
-### ✨ Key Features
-
-- 🌱 Product listing section
-- 📱 Responsive design
-- 🎨 Modern UI
-- 📩 Contact section
-- 📨 Newsletter section
-
-### 🧰 Technologies Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=5" alt="Greenden Technologies"/>
-</p>
-
----
-
-## 🎓 Udemy Clone
-
-A frontend educational website inspired by online learning platforms.
-
-### ✨ Key Features
-
-- 📚 Course-based layout
-- 🎨 Responsive UI
-- 🧩 Reusable HTML and CSS sections
-- 💻 Structured webpage design
-
-### 🧰 Technologies Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&perline=5" alt="Udemy Clone Technologies"/>
-</p>
-
----
-
-## 🌍 TripAdvisor Clone
-
-A travel website frontend inspired by travel discovery and destination platforms.
-
-### ✨ Key Features
-
-- 🌍 Destination-based UI
-- 🏨 Travel-related sections
-- 📱 Responsive layout
-- 🎨 Modern webpage design
-
-### 🧰 Technologies Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&perline=5" alt="TripAdvisor Technologies"/>
-</p>
-
----
 
 # 🛠️ Tech Stack
 
@@ -176,20 +96,6 @@ A travel website frontend inspired by travel discovery and destination platforms
 
 ---
 
-# 🧠 LeetCode Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/santhoshrajkttp/">
-    <img src="https://leetcard.jacoblin.cool/santhoshrajkttp?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Consistently practicing Data Structures and Algorithms to improve problem-solving and coding skills.</i>
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -203,22 +109,6 @@ A travel website frontend inspired by travel discovery and destination platforms
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SANTHOSH0530/SANTHOSH0530/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANTHOSH0530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
