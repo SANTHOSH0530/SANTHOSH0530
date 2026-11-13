@@ -96,23 +96,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANTHOSH0530&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=SANTHOSH0530&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH0530&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SANTHOSH0530&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
-</p>
-
----
-
 # 🎓 Education
 
 🎓 **B.E. Computer Science and Engineering**
