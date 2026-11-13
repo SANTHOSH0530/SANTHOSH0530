@@ -76,7 +76,7 @@
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=6" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" alt="Database Technologies"/>
 </p>
 
 ## 🧰 Tools & Platforms
