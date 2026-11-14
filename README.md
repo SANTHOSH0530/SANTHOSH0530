@@ -85,14 +85,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&perline=6" alt="Development Tools"/>
 </p>
 
-## 🔌 Core Concepts
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures-203A43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-2C5364?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 🎓 Education
