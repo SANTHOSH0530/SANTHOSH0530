@@ -90,8 +90,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Structures-203A43?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-2C5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-203A43?style=for-the-badge"/>
+
 </p>
 
 ---
